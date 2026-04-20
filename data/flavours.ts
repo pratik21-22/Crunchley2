@@ -71,6 +71,15 @@ export const flavours = [
     color: 'from-slate-300/30 to-stone-300/30',
     features: ['Classic Combo', 'Smooth Finish', 'Universally Loved'],
   },
+  {
+    name: 'Prasadam Makhana',
+    tagline: 'Pure Premium Makhana for Every Occasion',
+    description:
+      'Ideal for pooja, vrat, desserts, gifting, and healthy daily use.',
+    image: '/images/flavour-prasadam-placeholder.jpg',
+    color: 'from-amber-400/25 to-yellow-500/20',
+    features: ['Multi-Purpose', 'Premium Plain Makhana', 'Daily Wellness'],
+  },
 ] as const
 
 export const nutritionStats = [
